@@ -1,5 +1,5 @@
-grunt-contrib-mongo-migrate
-===================
+grunt-contrib-mongo-migrate [![Build Status: Linux](https://travis-ci.org/olaurendeau/grunt-contrib-mongo-migrate.svg?branch=master)](https://travis-ci.org/olaurendeau/grunt-contrib-mongo-migrate.svg?branch=master)
+==========================
 
 Provide grunt integration for mongo-migrate node module
 
