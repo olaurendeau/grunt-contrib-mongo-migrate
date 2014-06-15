@@ -9,3 +9,4 @@ install:
   - npm install
 script:
   - cp config.json-dist config.json
+  - grunt test
