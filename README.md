@@ -6,7 +6,9 @@ Provide grunt integration for mongo-migrate node module
 Installation
 ------------
 
-``` npm install grunt-contrib-mongo-migrate ```
+```
+npm install grunt-contrib-mongo-migrate
+```
 
 Configuration
 ------------
