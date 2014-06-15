@@ -1,6 +1,0 @@
-{
-    "mongo": {
-        "host": "localhost",
-        "db": "test"
-    }
-}
