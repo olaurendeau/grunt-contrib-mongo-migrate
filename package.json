@@ -1,7 +1,7 @@
 {
     "name": "grunt-contrib-mongo-migrate",
     "description": "Wrapper grunt task for the mongo-migrate module.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "homepage": "https://github.com/olaurendeau/grunt-contrib-mongo-migrate",
     "author": {
         "name": "Olivier Laurendeau",
